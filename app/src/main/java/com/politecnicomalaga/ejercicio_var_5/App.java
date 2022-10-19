@@ -9,6 +9,9 @@ public class App {
     
     public static void main(String[] args) {
         
+        //¿Qué tengo de entrada? ¿Qué proceso se realiza?
+        //¿Qué se debe de recordar? ¿Qué muestro por pantalla?
+        
         Scanner miScan = new Scanner(System.in);
         
         System.out.println("Introduzca su nombre: ");
